@@ -1,4 +1,4 @@
-﻿using static System.Console;
+﻿/*using static System.Console;
 // call class employee
 using Day04.PartOne;
 using Day04.PartTwo;
@@ -6,7 +6,7 @@ using Day04.PartTwo;
 // setiap create object instance, gunakan operator new
 
 // gunakan encapsulation untuk manipulasi attribute object
-/*emp1.firstName = "Code";
+*//*emp1.firstName = "Code";
 emp1.empId = 1001;*/
 /*
 Employee emp1 = new Employee();
@@ -52,7 +52,7 @@ List<Employee> listEmps = new List<Employee> { emp1, emp2,emp3,emp4,prog1 };
 foreach (var item in listEmps)
 {
     WriteLine(item.ToString());
-}*/
+}*//*
 
 WriteLine("========== Implementation Interface ==================");
 // call interface & implementation
@@ -74,3 +74,4 @@ empInf.ShowList(ref empsSalaryRange);
 
 ReadLine();
 
+*/
